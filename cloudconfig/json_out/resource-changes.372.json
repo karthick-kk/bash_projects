@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Windows Database Admin",
+    "Members": [
+      "hao.yanling@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Windows Database Admin' and tags.PAU=='100-48556' and tags.Billing Project=='SQL SentryOne'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Windows Database Admin | Billing Project: SQL SentryOne | PAU: 100-48556",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

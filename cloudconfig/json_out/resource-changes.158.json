@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "",
+    "Members": [
+      "Burke.James1@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='' and tags.PAU=='100-48188' and tags.Billing Project=='Element UI'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org:  | Billing Project: Element UI | PAU: 100-48188",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

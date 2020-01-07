@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Research",
+    "Members": [
+      ""
+    ]
+  },
+  "Data": "tags.Organization=='Research' and tags.PAU=='100-47333' and tags.Billing Project=='Ent Analytics'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Research | Billing Project: Ent Analytics | PAU: 100-47333",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

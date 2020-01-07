@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Organization",
+    "Members": [
+      "EMAIL"
+    ]
+  },
+  "Data": "tags.Organization=='Organization' and tags.PAU=='PAU' and tags.Billing Project=='Billing Project '",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Organization | Billing Project: Billing Project  | PAU: PAU",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

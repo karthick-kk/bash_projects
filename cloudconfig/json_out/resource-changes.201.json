@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Development Shared Services II",
+    "Members": [
+      ""
+    ]
+  },
+  "Data": "tags.Organization=='Development Shared Services II' and tags.PAU=='100-48148' and tags.Billing Project=='SMART/FHIR Starter App'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Development Shared Services II | Billing Project: SMART/FHIR Starter App | PAU: 100-48148",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

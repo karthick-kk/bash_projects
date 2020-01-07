@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Research",
+    "Members": [
+      "anderson.jeff1@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Research' and tags.PAU=='300-90672-014' and tags.Billing Project=='nference'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Research | Billing Project: nference | PAU: 300-90672-014",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Windows Engineering",
+    "Members": [
+      "Deorukhkar.Snehal@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Windows Engineering' and tags.PAU=='300-41061' and tags.Billing Project=='Cochlear Link monitor application server'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Windows Engineering | Billing Project: Cochlear Link monitor application server | PAU: 300-41061",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

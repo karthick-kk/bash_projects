@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Systems And Support - Edu",
+    "Members": [
+      "Postier.Travis@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Systems And Support - Edu' and tags.PAU=='100-47262' and tags.Billing Project=='Blackboard'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Systems And Support - Edu | Billing Project: Blackboard | PAU: 100-47262",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

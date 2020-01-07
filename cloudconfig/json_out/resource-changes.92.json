@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "RS-SPPDG-PTA",
+    "Members": [
+      "shamblin.brian@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='RS-SPPDG-PTA' and tags.PAU=='300-92066' and tags.Billing Project=='Special Purpose Processor Design Group'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: RS-SPPDG-PTA | Billing Project: Special Purpose Processor Design Group | PAU: 300-92066",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

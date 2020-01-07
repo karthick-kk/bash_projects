@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Revenue Application Services",
+    "Members": [
+      "Piotrowicz.Benjamin@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Revenue Application Services' and tags.PAU=='100-47366' and tags.Billing Project=='FeeReview'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Revenue Application Services | Billing Project: FeeReview | PAU: 100-47366",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

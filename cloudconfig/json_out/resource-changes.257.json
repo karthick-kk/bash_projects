@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Dept Systems - Surg And Critical Care Systems",
+    "Members": [
+      "White.Kenneth@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Dept Systems - Surg And Critical Care Systems' and tags.PAU=='300-43227' and tags.Billing Project=='Priority Driven Patient Access Tool (PDPAT)'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Dept Systems - Surg And Critical Care Systems | Billing Project: Priority Driven Patient Access Tool (PDPAT) | PAU: 300-43227",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

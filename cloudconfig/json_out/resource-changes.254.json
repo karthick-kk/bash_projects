@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "",
+    "Members": [
+      "Walter.Matthew@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='' and tags.PAU=='100-48499' and tags.Billing Project=='Opus'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org:  | Billing Project: Opus | PAU: 100-48499",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

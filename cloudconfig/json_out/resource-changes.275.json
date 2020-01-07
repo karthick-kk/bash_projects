@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Medical Systems",
+    "Members": [
+      ""
+    ]
+  },
+  "Data": "tags.Organization=='Medical Systems' and tags.PAU=='100-47595' and tags.Billing Project=='Prescription Refill'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Medical Systems | Billing Project: Prescription Refill | PAU: 100-47595",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

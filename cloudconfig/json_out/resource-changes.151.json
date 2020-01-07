@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Surg & Critical Care Systems",
+    "Members": [
+      "League.John@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Surg & Critical Care Systems' and tags.PAU=='300-44913' and tags.Billing Project=='Competency'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Surg & Critical Care Systems | Billing Project: Competency | PAU: 300-44913",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

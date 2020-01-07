@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ME&IC MCHS Comm Prac Proj Mgmt",
+    "Members": [
+      ""
+    ]
+  },
+  "Data": "tags.Organization=='ME&IC MCHS Comm Prac Proj Mgmt' and tags.PAU=='300-42456' and tags.Billing Project=='Hazardous Materials Management'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ME&IC MCHS Comm Prac Proj Mgmt | Billing Project: Hazardous Materials Management | PAU: 300-42456",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

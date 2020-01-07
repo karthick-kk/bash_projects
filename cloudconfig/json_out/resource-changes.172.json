@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ERP Ancillary",
+    "Members": [
+      "Armagost.Melissa@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='ERP Ancillary' and tags.PAU=='100-47440' and tags.Billing Project=='ERP Ancillary WebServices'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ERP Ancillary | Billing Project: ERP Ancillary WebServices | PAU: 100-47440",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

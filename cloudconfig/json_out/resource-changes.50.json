@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Hospital Systems/SSO",
+    "Members": [
+      "Degen.Robert@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Hospital Systems/SSO' and tags.PAU=='305-45411' and tags.Billing Project=='Environment services auditing tracking'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Hospital Systems/SSO | Billing Project: Environment services auditing tracking | PAU: 305-45411",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

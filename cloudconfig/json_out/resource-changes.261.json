@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Research Application Solutions",
+    "Members": [
+      "paulb@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Research Application Solutions' and tags.PAU=='100-48054' and tags.Billing Project=='RAS Angular App Shell'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Research Application Solutions | Billing Project: RAS Angular App Shell | PAU: 100-48054",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

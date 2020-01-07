@@ -1,0 +1,18 @@
+{
+    "Name": "Customer Project - ERIS",
+    "Audience": {
+        "Name": "ERIS: RS-Rad Onc Research",
+        "Members": ["Jonathan.Asbury@Analysts.com"]
+    },    
+    "Data": "tags.Organization=='RS-Rad Onc Research' and tags.PAU=='100-48449'",
+    "Schedule": "0 */5 * ? * *",
+    "TEMP": "Org: RS-Rad Onc Research | Billing Project: ERIS Development Application Personalization Storage. |  PAU: 100-48449",
+    "Tags": ["ERIS"],
+    "Template": "CustomerProject",
+	"System": {
+		"Schema": "1.0.0",
+		"Status": "",
+		"LastBuilt": "",
+		"Message": ""
+	}
+}
