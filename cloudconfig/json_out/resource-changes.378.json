@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Windows Engineering",
+    "Members": [
+      "DLMCRISMS@exchange.mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Windows Engineering' and tags.PAU=='100-48141' and tags.Billing Project=='Tivoli Enterprise Portal Server'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Windows Engineering | Billing Project: Tivoli Enterprise Portal Server | PAU: 100-48141",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

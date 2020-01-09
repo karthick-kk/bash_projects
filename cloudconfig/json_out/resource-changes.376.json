@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Windows Engineering",
+    "Members": [
+      "Tangirala.Phani@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Windows Engineering' and tags.PAU=='300-43173' and tags.Billing Project=='Repository for DLMP test profiles'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Windows Engineering | Billing Project: Repository for DLMP test profiles | PAU: 300-43173",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

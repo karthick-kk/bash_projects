@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "MMLA Applications",
+    "Members": [
+      "Engelhaupt.Travis@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='MMLA Applications' and tags.PAU=='300-43173' and tags.Billing Project=='Mayo Clinic Labs'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: MMLA Applications | Billing Project: Mayo Clinic Labs | PAU: 300-43173",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

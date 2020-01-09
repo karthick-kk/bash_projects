@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": " encryption & transport to cloud (MCHS)",
+    "Members": [
+      "100-47881"
+    ]
+  },
+  "Data": "tags.Organization==' encryption & transport to cloud (MCHS)' and tags.PAU=='Windows Engineering' and tags.Billing Project=='Collect Telecom system data'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org:  encryption & transport to cloud (MCHS) | Billing Project: Collect Telecom system data | PAU: Windows Engineering",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

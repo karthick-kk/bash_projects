@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "CPS",
+    "Members": [
+      ""
+    ]
+  },
+  "Data": "tags.Organization=='CPS' and tags.PAU=='NA' and tags.Billing Project=='CPS App'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: CPS | Billing Project: CPS App | PAU: NA",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

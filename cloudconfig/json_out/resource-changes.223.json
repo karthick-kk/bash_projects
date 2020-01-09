@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Custom Application Development",
+    "Members": [
+      "Vancuyk.Douglas@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Custom Application Development' and tags.PAU=='300-43173' and tags.Billing Project=='Liquid Handler Sample Finder'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Custom Application Development | Billing Project: Liquid Handler Sample Finder | PAU: 300-43173",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

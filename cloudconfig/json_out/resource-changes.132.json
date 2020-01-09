@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ALM Process & Tech Support",
+    "Members": [
+      "Brandel.Daniel@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='ALM Process & Tech Support' and tags.PAU=='100-42298' and tags.Billing Project==''",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ALM Process & Tech Support | Billing Project:  | PAU: 100-42298",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

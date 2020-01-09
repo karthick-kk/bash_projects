@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Knowledge Mgmt Technologies",
+    "Members": [
+      "Hickey.Branden@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Knowledge Mgmt Technologies' and tags.PAU=='100-48111' and tags.Billing Project=='Ercapi'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Knowledge Mgmt Technologies | Billing Project: Ercapi | PAU: 100-48111",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

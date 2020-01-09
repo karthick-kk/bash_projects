@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "General Systems Support",
+    "Members": [
+      "Welp.Brian@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='General Systems Support' and tags.PAU=='300-42456' and tags.Billing Project=='Ohs Portal'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: General Systems Support | Billing Project: Ohs Portal | PAU: 300-42456",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

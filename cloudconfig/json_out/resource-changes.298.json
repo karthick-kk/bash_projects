@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Research",
+    "Members": [
+      "Sharma.Deepak@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Research' and tags.PAU=='300-94379' and tags.Billing Project=='Cardiology AZ'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Research | Billing Project: Cardiology AZ | PAU: 300-94379",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

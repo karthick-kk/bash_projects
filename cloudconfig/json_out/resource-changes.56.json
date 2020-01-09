@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "RS - Research Systems Ops",
+    "Members": [
+      "Oldenburg.Ryan@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='RS - Research Systems Ops' and tags.PAU=='300-94131' and tags.Billing Project=='Institutional Review Board'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: RS - Research Systems Ops | Billing Project: Institutional Review Board | PAU: 300-94131",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

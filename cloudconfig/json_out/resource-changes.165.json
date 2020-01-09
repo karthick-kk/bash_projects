@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ERIS Shared Services",
+    "Members": [
+      "Eggler.Heather@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='ERIS Shared Services' and tags.PAU=='100-48449' and tags.Billing Project=='EHR/RCM Change Control Application'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ERIS Shared Services | Billing Project: EHR/RCM Change Control Application | PAU: 100-48449",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}
