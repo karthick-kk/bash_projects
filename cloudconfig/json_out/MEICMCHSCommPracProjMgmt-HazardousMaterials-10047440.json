@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ME&IC MCHS Comm Prac Proj Mgmt",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='ME&IC MCHS Comm Prac Proj Mgmt' and tags.PAU=='100-47440' and tags.Billing Project=='Hazardous Materials'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ME&IC MCHS Comm Prac Proj Mgmt | Billing Project: Hazardous Materials | PAU: 100-47440",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

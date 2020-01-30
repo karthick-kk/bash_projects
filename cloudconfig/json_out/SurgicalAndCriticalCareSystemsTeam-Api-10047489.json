@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Surgical And Critical Care Systems Team",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Surgical And Critical Care Systems Team' and tags.PAU=='100-47489' and tags.Billing Project=='Api'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Surgical And Critical Care Systems Team | Billing Project: Api | PAU: 100-47489",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

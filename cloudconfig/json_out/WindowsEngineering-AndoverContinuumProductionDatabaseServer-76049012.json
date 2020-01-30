@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Windows Engineering",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Windows Engineering' and tags.PAU=='760-49012' and tags.Billing Project=='Andover Continuum Production Database Server'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Windows Engineering | Billing Project: Andover Continuum Production Database Server | PAU: 760-49012",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

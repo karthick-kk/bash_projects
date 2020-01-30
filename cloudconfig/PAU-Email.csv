@@ -1,354 +1,139 @@
-"Billing Project ",Organization,PAU,EMAIL
-,"platforms & Services",,Pankratz.Joshua@mayo.edu
-"Mayo Mobile App","Connected Care Mobile Unit",301-43541,Channer.Dwight@mayo.edu
-"Mayo Mobile App","Connected Care Mobile Unit",301-43541,Channer.Dwight@mayo.edu
-Echo,,,Klepel.Brant@mayo.edu
-"Dynamic CRM","Mayo CRM Office",301-43495,Wichmann.Roger@mayo.edu
+"Billing Project",Organization,PAU,Email
+"Mayo Mobile App","Connected Care Mobile Unit",301-43541,Benson.Jenny@mayo.edu
 "Dynamic CRM","Mayo CRM Office",301-43495,Wichmann.Roger@mayo.edu
 "ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
 "Content Delivery API","Global Business Solutions",100-48151,Wiltgen.Ryan@mayo.edu
-"Content Delivery API","Global Business Solutions",100-48151,Wiltgen.Ryan@mayo.edu
 Geneguide,"Center For Individualized Medicine",300-43698,Wiltgen.Ryan@mayo.edu
-Geneguide,"Center for Individualized Medicine",300-43698,Wiltgen.Ryan@mayo.edu
 "Platform And Enterprise Service","IDMP Access Control",100-80006,Deeduvanu.Rammohan@mayo.edu
-"Platform and enterprise service","IDMP Access Control",100-80006,Deeduvanu.Rammohan@mayo.edu
-"Interactive Knowledge Resources","Knowledge Management And Delivery",100-48111,Hickey.Branden@mayo.edu
-"Interactive Knowledge Resources","Knowledge Management And Delivery",100-48111,Hickey.Branden@mayo.edu
+"Interactive Knowledge Resources","Knowledge Management and Delivery",100-48111,Hickey.Branden@mayo.edu
 CadSoft,"Custom Application Development",300-43172,Benson.Jenny@mayo.edu
 CadSoft,"Custom Application Development",300-43173,Benson.Jenny@mayo.edu
-"Mayo Clinic Labs","MMLA Applications",300-43173,Engelhaupt.Travis@mayo.edu
-"Mayo Clinic Labs","MMLA Applications",300-43173,Engelhaupt.Travis@mayo.edu
+"Mayo Clinic Labs","MMLA Applications",300-43173-J012273A,Engelhaupt.Travis@mayo.edu
 MayoClinic.org,GBS,100-48145,Pauley.Brett@mayo.edu
-MayoClinic.org,GBS,100-48145,Pauley.Brett@mayo.edu
-"Mayo Expert Advisory MayoExpertRecommendations","Knowledge Mgmt Technologies",100-48111,sorensen.kristi@mayo.edu
 "Mayo Expert Advisory, MayoExpertRecommendations","Knowledge Mgmt Technologies",100-48111,sorensen.kristi@mayo.edu
-"Patient Online Services","Connected Care",48131,ganthony@mayo.edu
-"Patient Online Services","Connected Care",48131,ganthony@mayo.edu
-"Pharmacy IWR Prescription Refill Portal","Outpatient Pharmacy",100-47595,
-"Pharmacy IWR Prescription Refill Portal","Outpatient Pharmacy",100-47595,
-"Or Insight","Hospital Project Services",100-47333,Killinger.Patrick@mayo.edu
+"Patient Online Services","Connected Care",301-43380,ganthony@mayo.edu
+"Pharmacy IWR Prescription Refill Portal","Outpatient Pharmacy",100-47595,li.man@mayo.edu
 "Or Insight","Hospital Project Services",100-47333,Killinger.Patrick@mayo.edu
 SetEpicLights,"ITSM Technology Support",100-47891,Ulwelling.James@mayo.edu
 "SNCS On Cloud","SNCS Development Team",100-47923,Nathan.Aaron@mayo.edu
-"Priority Driven Patient Access Tool (PDPAT)","Dept Systems - Surg And Critical Care Systems",300-43227,White.Kenneth@mayo.edu
+"Priority Driven Patient Access Tool (PDPAT)","Dept Systems - Surg & Critical Care Systems",300-43227,White.Kenneth@mayo.edu
 Classifieds,"General Systems Support",100-42336,Cozine.Daniel@mayo.edu
 Competency,"Surg & Critical Care Systems",300-44913,League.John@mayo.edu
-Competency,"Surg & Critical Care Systems",300-44913,League.John@mayo.edu
-"CPS App",CPS,NA,
-"CPS app",CPS,NA,
-"Intake form","Development Shared Services I",100-48499,Klepel.Brant@mayo.edu
 "Intake form","Development Shared Services I",100-48499,Klepel.Brant@mayo.edu
 "Send it form","Mayo Medical Lab (MML) Apps",300-43173,Halvorson.Joseph@mayo.edu
-"Send it form","Mayo Medical Lab (MML) Apps",300-43173,Halvorson.Joseph@mayo.edu
-"EHR/RCM Change Control application.","ERIS Shared Services",100-48449,Eggler.Heather@mayo.edu
-"EHR/RCM Change Control application.","ERIS Shared Services",100-48449,Eggler.Heather@mayo.edu
-"ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
+"EHR/RCM Change Control application","ERIS Shared Services",100-48449,Eggler.Heather@mayo.edu
 "ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
 "ERPAncillary WebServices","MCIT Admin Business Systems, ERP Ancillary Systems",100-47440,Armagost.Melissa@mayo.edu
 "Enterprise Solution Activation & Services","Ent Solution Activation & Svcs",100-47933,Stevens.Leslie@mayo.edu
-"Enterprise Solution Activation & Services","Ent Solution Activation & Svcs",100-47933,Stevens.Leslie@mayo.edu
 "Environment services auditing tracking","Hospital Systems/SSO",305-45411,Degen.Robert@mayo.edu
-"Environment services auditing tracking","Hospital Systems/SSO","305 45411",Degen.Robert@mayo.edu
-"Environment services auditing tracking","Hospital Systems/SSO","305 45411",Degen.Robert@mayo.edu
 "Health Care of the Future","Development Shared Services I",300-41613,Henckel.Jonathan@mayo.edu
-"Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
-"Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
 "Institutional Review Board","RS - Research Systems Ops",300-94131,Oldenburg.Ryan@mayo.edu
 "Epic clarity - part of Mayo Expert Advisor","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
 "opiod tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"opiod tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
 "Front End Angular Application For Lhsf","Custom Application Development",300-43173,Vancuyk.Douglas@mayo.edu
 "Liquid Handler Sample Finder","Custom Application Development",300-43173,Vancuyk.Douglas@mayo.edu
 "Laboratory, Pathology, and Extramural Applications - picl tool","Custom Application Development",300-43173,Kapraun.Gregory@mayo.edu
-"Laboratory, Pathology, and Extramural Applications - picl tool","Custom Application Development",300-43173,Kapraun.Gregory@mayo.edu
-"Laboratory, Pathology, and Extramural Applications - picl tool","Custom Application Development",300-43173,Kapraun.Gregory@mayo.edu
-"Digital Pathology","Quality Specialists - Ap",300-42625,Berry.David@mayo.edu
 "Digital Pathology","Quality Specialists - Ap",300-42625,Berry.David@mayo.edu
 "Laboratory Billing Information System","MMLA Applications",300-43173,Miller.Bobby@mayo.edu
-"Laboratory Billing Information System","MMLA Applications",300-43173,Miller.Bobby@mayo.edu
-"MML Tracker","ERP Ancillary Systems",300-43173,Holst.William@mayo.edu
 "MML Tracker","ERP Ancillary Systems",300-43173,Holst.William@mayo.edu
 "Hazardous Materials","ME&IC MCHS Comm Prac Proj Mgmt",100-47440,
 "Fee review","Revenue Application Services",100-47366,Nhean.Ren@mayo.edu
-"Sage In-House App","Revenue Application Services",100-47366,Nhean.Ren@mayo.edu
+"Sage in-house app","Revenue Application Services",100-47366,Nhean.Ren@mayo.edu
 "Creative Studio","Design Team 5",300-92510,Sandstrom.Kyle@mayo.edu
-,"Commercial Systems",,Wiltgen.Ryan@mayo.edu
 "HLP Portal","Commercial Systems",100-43448,Wiltgen.Ryan@mayo.edu
 "PBM Portal","Commercial Systems",260-49203,Wiltgen.Ryan@mayo.edu
 "GBS WA Portal","Commercial Systems",100-48490,Wiltgen.Ryan@mayo.edu
-"Institutional Review Board.","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
-"Institutional Review Board.","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
-"CCaTS Server Deployment",,100-48145,
-Blackboard,"Systems And Support - Edu",100-47262,Postier.Travis@mayo.edu
-PMTS,"MSS Print & Electronic Publish",100-48145,Torborg.Scott@mayo.edu
+"Institutional Review Board","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
+blackboard,"Systems and Support - Edu",100-47262,Postier.Travis@mayo.edu
+pmts,"MSS Print & Electronic Publish",100-48145,Torborg.Scott@mayo.edu
 "operations team","Shared Operational Services",300-42497,Ha.Don@mayo.edu
 "special purpose processor design group",RS-SPPDG-PTA,300-92066,shamblin.brian@mayo.edu
-"Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
+"Opiod Tool","Knowledge Mgmt Technologies",100-48111,sorensen.kristi@mayo.edu
+"Notification and Delivery","Mayo Medical Lab (MML) Apps",300-43173,Kappler.John@mayo.edu
+"Mayo HR Apps","ERP Core Systems",100-47440,Becker.Brian1@mayo.edu
+ohs-portal,"General Systems Support",300-42456,Welp.Brian@mayo.edu
+"School immunization","IT - Internal Medicine",300-44989,cameron.bruce@mayo.edu
+"special purpose processor design group",RS-SPPDG-PTA,300-92066,shamblin.brian@mayo.edu
+Epsyc,"Knowledge Management",300-43490,
+"PBM Portal","Commercial Systems",260-49203,Wiltgen.Ryan@mayo.edu
+"GBS WA Portal","Commercial Systems",100-48490,Wiltgen.Ryan@mayo.edu
+"Institutional Review Board","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
 "Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
 "Notification And Delivery","Mayo Medical Lab (MML) Apps",300-43173,Kappler.John@mayo.edu
 "Mayo HR Apps","ERP Core Systems",100-47440,Becker.Brian1@mayo.edu
-"Ohs Portal","General Systems Support",300-42456,Welp.Brian@mayo.edu
-"School Immunization","IT - Internal Medicine",300-44989,cameron.bruce@mayo.edu
-"Special Purpose Processor Design Group",RS-SPPDG-PTA,300-92066,shamblin.brian@mayo.edu
-"Non-Mayo Owned Application","Research Application Solutions",100-48054,paulb@mayo.edu
-WordPress,"Design Team 5",100-42391,Sandstrom.Kyle@mayo.edu
-,"Knowledge Management",300-43490,Whiteside.Stephen@mayo.edu
-,"Knowledge Management",300-43490,Whiteside.Stephen@mayo.edu
-,"Knowledge Management",300-43490,Whiteside.Stephen@mayo.edu
-,"Knowledge Management",300-43490,Whiteside.Stephen@mayo.edu
-"PBM Portal","Commercial Systems",260-49203,Wiltgen.Ryan@mayo.edu
-,"Commercial Systems",300-91170,Wiltgen.Ryan@mayo.edu
-"PBM Portal","Commercial Systems",260-49203,Wiltgen.Ryan@mayo.edu
-"GBS WA Portal","Commercial Systems",100-48490,Wiltgen.Ryan@mayo.edu
-"PBM Portal","Commercial Systems",260-49203,Wiltgen.Ryan@mayo.edu
-"Institutional Review Board.","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
-"Institutional Review Board.","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
-"Institutional Review Board.","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
-"Institutional Review Board.","Research Systems and Support",300-94131,Oldenburg.Ryan@mayo.edu
-"Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opiod Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Kme Design Tool","Knowledge Mgmt Technologies",100-48111,Hullopeter.Brady@mayo.edu
-"notification and delivery","Mayo Medical Lab (MML) Apps",300-43173,Kappler.John@mayo.edu
-"notification and delivery","Mayo Medical Lab (MML) Apps",300-43173,Kappler.John@mayo.edu
-"notification and delivery","Mayo Medical Lab (MML) Apps",300-43173,Kappler.John@mayo.edu
-"Results Api","Mayo Medical Lab (MML) Apps",300-43173,Kappler.John@mayo.edu
-"Mayo HR Apps","ERP Core Systems",100-47440,Becker.Brian1@mayo.edu
-"Mayo HR Apps","ERP Core Systems",100-47440,Becker.Brian1@mayo.edu
-"Ohs Portal","General Systems Support",300-43442,Welp.Brian@mayo.edu
-ohs-portal,"General Systems Support",300-43442,Welp.Brian@mayo.edu
+ohs-portal,"General Systems Support",300-42456,Welp.Brian@mayo.edu
 "slip registration","IT - Internal Medicine",300-44989,cameron.bruce@mayo.edu
-"slip registration","IT - Internal Medicine",300-44989,cameron.bruce@mayo.edu
-"American Society Of Anesthesiology-Physical Status Scoring Tool","Advanced Analytics Services",300-42344,
-"Advanced Text Explorer","Advanced Analytics Services",100-48180,Rinkleff.Franz@mayo.edu
-"Advanced Text Explorer","Advanced Analytics Services",100-48180,Rinkleff.Franz@mayo.edu
 "American Society Of Anesthesiology","Advanced Analytics Services",300-42344,
-,"ALM Process & Tech Support",100-42295,Brandel.Daniel@mayo.edu
-,"ALM Process & Tech Support",100-42296,Brandel.Daniel@mayo.edu
-,"ALM Process & Tech Support",100-42297,Brandel.Daniel@mayo.edu
-,"ALM Process & Tech Support",100-42298,Brandel.Daniel@mayo.edu
-"Enterprise Medication Diversion Surveillance program","Enterprise Analytics ADIS team","100 - 47333",Killinger.Patrick@mayo.edu
+"Advanced Text Explorer","Advanced Analytics Services",100-48180,Rinkleff.Franz@mayo.edu
+"Enterprise Medication Diversion Surveillance program","Enterprise Analytics ADIS team",100-47333,Killinger.Patrick@mayo.edu
 "Business To Consumer","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer - Migration","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer - Migration","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer - Migration","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"Business To Consumer","Enterprise Platform Services",100-48105,Brandt.Shawn@mayo.edu
-"CET app",CPS,NA,
 "Patient Check-In & Waiting Prototype","Mayo Clinic Center For Innov",300-41613,bleimeyr@mayo.edu
-"Patient Check-in & Waiting Prototype","Mayo Clinic Center For Innov",300-41613,bleimeyr@mayo.edu
-"Patient Check-in & Waiting Prototype","Mayo Clinic Center For Innov",300-41613,bleimeyr@mayo.edu
-"Patient Check-in & Waiting Prototype","Mayo Clinic Center For Innov",300-41613,bleimeyr@mayo.edu
-"Patient Check-in & Waiting Prototype","Mayo Clinic Center For Innov",300-41613,bleimeyr@mayo.edu
 Classifieds,"General Systems Support",100-42336,Cozine.Daniel@mayo.edu
-Classifieds,"General Systems Support",100-42336,Cozine.Daniel@mayo.edu
-Competency,"Surg & Critical Care Systems",300-44913,League.John@mayo.edu
-Competency,"Surg & Critical Care Systems",300-44913,League.John@mayo.edu
-Competency,"Surg & Critical Care Systems",300-44913,League.John@mayo.edu
 Competency,"Surg & Critical Care Systems",300-44913,League.John@mayo.edu
 "Element UI","Development Shared Services I",100-48188,Burke.James1@mayo.edu
-"DSS Intake","Development Shared Services I",100-48499,
-"DSS Intake","Development Shared Services I",100-48499,
-"Element UI",,100-48188,Burke.James1@mayo.edu
 "DSS Intake","Development Shared Services I",100-48499,Klepel.Brant@mayo.edu
-"DSS Intake","Development Shared Services I",100-48499,Klepel.Brant@mayo.edu
-,"Mayo Medical Lab (MML) Apps",300-43173,Halvorson.Joseph@mayo.edu
-,"Mayo Medical Lab (MML) Apps",300-43173,Halvorson.Joseph@mayo.edu
 "EHR/RCM Change Control Application","ERIS Shared Services",100-48449,Eggler.Heather@mayo.edu
-"EHR/RCM Change Control Applicationon","ERIS Shared Services",100-48449,Eggler.Heather@mayo.edu
-"EHR/RCM Change Control Application","ERIS Shared Services",100-48449,Eggler.Heather@mayo.edu
-"EHR/RCM Change Control Applicationon","ERIS Shared Services",100-48449,Eggler.Heather@mayo.edu
-"ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
-"ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
-"ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
-"ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
 "ERIS Development Application Personalization Storage","RS-Rad Onc Research",100-48449,Eggler.Heather@mayo.edu
 "ERP Ancillary WebServices","ERP Ancillary",100-47440,Armagost.Melissa@mayo.edu
-"ERP Ancillary WebServices","ERP Ancillary",100-47440,Armagost.Melissa@mayo.edu
-"Enterprise Solution Activation & Services","Ent Solution Activation & Svcs",100-47933,Stevens.Leslie@mayo.edu
-"Enterprise Solution Activation & Services","Ent Solution Activation & Svcs",100-47933,Stevens.Leslie@mayo.edu
-"Enterprise Solution Activation & Services","Ent Solution Activation & Svcs",100-47933,Stevens.Leslie@mayo.edu
-"Enterprise Solution Activation & Services","Ent Solution Activation & Svcs",100-47933,Stevens.Leslie@mayo.edu
-"Environment Services Auditing Tracking","Hospital Systems/SSO",305-45411,Degen.Robert@mayo.edu
+"Enterprise Solution Activation & Services","Ent Solution Activation & Svcs",100-46193,Stevens.Leslie@mayo.edu
 "Environment services auditing tracking","Hospital Systems/SSO",305-45411,Degen.Robert@mayo.edu
-"Environment services auditing tracking","Hospital Systems/SSO",305-45411,Degen.Robert@mayo.edu
-"Environment services auditing tracking","Hospital Systems/SSO",305-45411,Degen.Robert@mayo.edu
-"Environment services auditing tracking","Hospital Systems/SSO",305-45411,Degen.Robert@mayo.edu
-"Environment services auditing tracking","Hospital Systems/SSO",305-45411,Degen.Robert@mayo.edu
+"Familial Hypersholesterolemia","Commercial Systems",300-91170,Wiltgen.Ryan@mayo.edu
 "HLP Portal","Commercial Systems",100-43448,Wiltgen.Ryan@mayo.edu
 "GBS WA Portal","Commercial Systems",100-48490,Wiltgen.Ryan@mayo.edu
-"HLP Portal"," Commercial Systems",100-43448,Wiltgen.Ryan@mayo.edu
-,,300-91170,Wiltgen.Ryan@mayo.edu
-"HLP Portal"," Commercial Systems",100-43448,Wiltgen.Ryan@mayo.edu
-"GBS WA Portal"," Commercial Systems",100-48490,Wiltgen.Ryan@mayo.edu
-"Health Care of the Future","Development Shared Services I",300-41613,bleimeyr@mayo.edu
-"Health Care of the Future","Development Shared Services I",300-41613,bleimeyr@mayo.edu
-"Health Care of the Future","Development Shared Services I",300-41613,bleimeyr@mayo.edu
+"Health Care of the Future","Development Shared Services I",300-41613,Henckel.Jonathan@mayo.edu
 "Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
-"Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
-"Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
-"Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
-"Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
-"Hazardous Materials Management","ME&IC MCHS Comm Prac Proj Mgmt",300-42456,
-"Institutional Review Board","Research System Services And Support",300-94131,Oldenburg.Ryan@mayo.edu
 "Institutional Review Board","Research System Services And Support",300-94131,Oldenburg.Ryan@mayo.edu
 "SMART/FHIR Starter App","Development Shared Services II",100-48148,
-"Clinical Concept Glossary Library","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Clinical Concept Glossary Library","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Clinical Concept Glossary Library","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
 "Opioid Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opioid Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-Ercapi,"Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opioid Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opioid Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-Ercapi,"Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
 "Interactive Knowledge Resources","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Interactive Knowledge Resources","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opioid Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Opioid Tool","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-Ercapi,"Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Interactive Knowledge Resources","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Interactive Knowledge Resources","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Interactive Knowledge Resources","Knowledge Mgmt Technologies",100-48111,Hickey.Branden@mayo.edu
-"Front End Angular Application For Lhsf","Custom Application Development",300-43173,Vancuyk.Douglas@mayo.edu
-"Liquid Handler Sample Finder","Custom Application Development",300-43173,Vancuyk.Douglas@mayo.edu
+"Liquid Handler Sample Finder","Custom Application Development",300-43173,
 "Lhsf's Picl Tool","Custom Application Development",300-43173,Vancuyk.Douglas@mayo.edu
-"Front End Angular Application For Lhsf","Custom Application Development",300-43173,Vancuyk.Douglas@mayo.edu
-"Liquid Handler Sample Finder","Custom Application Development",300-43173,Vancuyk.Douglas@mayo.edu
-"Neuroimmunology Electronic Records And Documents System","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Neuroimmunology Electronic Records and Documents System","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
 "Neuroimmunology Electronic Records and Documents System","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
 "Omics Reporting Toolkit","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Omics Reporting Toolkit","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Omics Reporting Toolkit","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Picl Tool For Lpea","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Neuroimmunology Electronic Records And Documents System","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Neuroimmunology Electronic Records and Documents System","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Neuroimmunology Electronic Records And Documents System","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Omics Reporting Toolkit","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Omics Reporting Toolkit","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"picl tool for lpea","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Picl Tool For Lpea","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Omics Reporting Toolkit","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
-"Digital Pathology","Quality Specialists - Ap",300-42625,
-"Digital Pathology","Quality Specialists - Ap",300-42625,
+"Picl Tool For lpea","Custom Application Development",300-43173,Elgin.Benjamin@mayo.edu
+"Digital Pathology","Quality Specialists - Ap",300-42625,Norman.Mark@mayo.edu
 "MC Forms And Publications Search Replacement Project","MSS Print & Electronic Publish",100-43156,Torborg.Scott@mayo.edu
-"Digital Pathology","Quality Specialists - Ap",300-42625,
-"Digital Pathology","Quality Specialists - Ap",300-42625,
-"Laboratory Billing Information System","MMLA Applications",300-43173,Miller.Bobby@mayo.edu
-"Laboratory Billing Information System","MMLA Applications",300-43173,Miller.Bobby@mayo.edu
-"Laboratory Billing Information System","MMLA Applications",300-43173,Miller.Bobby@mayo.edu
-"Laboratory Billing Information System","MMLA Applications",300-43173,Miller.Bobby@mayo.edu
-"Enterprise Solution Activation And Services","Ent Solution Activation And Svcs",100-47933,Stevens.Leslie@mayo.edu
-"Mml Tracker","ERP Ancillary Systems",300-43173,Holst.William@mayo.edu
-"Mml Tracker","ERP Ancillary Systems",300-43173,Holst.William@mayo.edu
-"Mml Tracker","ERP Ancillary Systems",300-43173,Holst.William@mayo.edu
-"Mml Tracker","ERP Ancillary Systems",300-43173,Holst.William@mayo.edu
-"Mml Tracker","ERP Ancillary Systems",300-43173,Holst.William@mayo.edu
-Opus,,100-48499,Walter.Matthew@mayo.edu
+"Laboratory Billing Information System","MMLA Applications",300-43173,
+"Mml Tracker","ERP Ancillary Systems",300-43173,
 "Hazardous Materials","ME&IC MCHS Comm Prac Proj Mgmt",100-47440,
-"Hazardous Materials","ME&IC MCHS Comm Prac Proj Mgmt",100-47440,
-"Priority Driven Patient Access Tool (PDPAT)","Dept Systems - Surg And Critical Care Systems",300-43227,White.Kenneth@mayo.edu
-"Priority Driven Patient Access Tool (PDPAT)","Dept Systems - Surg & Critical Care Systems",300-43227,White.Kenneth@mayo.edu
-"Priority Driven Patient Access Tool (PDPAT)","Dept Systems - Surg & Critical Care Systems",300-43227,White.Kenneth@mayo.edu
 "Priority Driven Patient Access Tool (PDPAT)","Dept Systems - Surg & Critical Care Systems",300-43227,White.Kenneth@mayo.edu
 "RAS Angular App Shell","Research Application Solutions",100-48054,paulb@mayo.edu
 "Research Data Consolidation","Research Application Solutions",100-48054,paulb@mayo.edu
-FeeReview,"Revenue Application Services",100-47366,Piotrowicz.Benjamin@mayo.edu
-"Research Data Consolidation","Research Application Solutions",100-48054,paulb@mayo.edu
-"Sage In-house Ras App","Revenue Application Services",100-47366,Nhean.Ren@mayo.edu
-Vault,"Revenue Application Services",100-47366,Nhean.Ren@mayo.edu
-"RAS Angular App Shell","Research Application Solutions",100-48054,paulb@mayo.edu
-"Research Data Consolidation","Research Application Solutions",100-48054,paulb@mayo.edu
-FeeReview,"Revenue Application Services",100-47366,Piotrowicz.Benjamin@mayo.edu
-"Research Data Consolidation","Research Application Solutions",100-48054,paulb@mayo.edu
+FeeReview,"Revenue Application Services",100-47366,
 "Sage In-house ras App","Revenue Application Services",100-47366,Nhean.Ren@mayo.edu
-,"Revenue Application Services",100-47366,Nhean.Ren@mayo.edu
-Api,"Surgical & Critical Care Systems Team",100-47489,Dudakovic.Halil@mayo.edu
-Api,"Surgical And Critical Care Systems Team",100-47489,Dudakovic.Halil@mayo.edu
-"Prescription Refill","Medical Systems",100-47595,
+Api,"Surgical And Critical Care Systems Team",100-47489,
 nference,Research,300-90672,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
 nference,Research,300-90672-014,anderson.jeff1@mayo.edu
 HSR,Research,300-94202,Sohn.Sunghwan@mayo.edu
 Cardiology,Research,300-93773,Attia.Itzhak@mayo.edu
 HSR,Research,300-43227,Wei.Ting@mayo.edu
 HSR,Research,300-94204,Tafti.Ahmad@mayo.edu
-HSR,Research,300-94204,Tafti.Ahmad@mayo.edu
-Cardiology,Research,300-93773,Attia.Itzhak@mayo.edu
 HSR,Research,300-94204-999,Shen.Feichen@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
 "Ent Analytics",Research,100-47333,Gill.Jason@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-Cardiology,Research,300-93773,Attia.Itzhak@mayo.edu
-Cardiology,Research,300-93773,Attia.Itzhak@mayo.edu
 OIS,Research,100-48572,Bakken.Rosalie@mayo.edu
-HSR,Research,300-91305,
+HSR,Research,300-91305,Moore.Raymond@mayo.edu
 Pharmacy,Research,300-94204,Chen.David@mayo.edu
 "Cardiology AZ",Research,300-94379,Sharma.Deepak@mayo.edu
-"Ent Analytics",Research,100-47333,
 Kern,Research,300-48089,lin.yaxiong@mayo.edu
 HSR,Research,300-92771,Zhao.Yiqing@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
 Radiology,Research,300-92818-006,Zhou.Boran@mayo.edu
 "Ent Analytics",Research,100-47333,Allen.Daniel@mayo.edu
 "Qual Mgmt - FL",Research,501-41359,Vizzini.Michael@mayo.edu
 EOAM,Research,300-44600,Keister.Adrian@mayo.edu
-EOAM,Research,300-44600,Keister.Adrian@mayo.edu
-nference,Research,300-90672-014,anderson.jeff1@mayo.edu
-"TFS build","ALM Process & Tech Support",100-42295,Brandel.Daniel@mayo.edu
 "TFS Build","Windows Engineering",100-42295,Brandel.Daniel@mayo.edu
-"TFS build","ALM Process & Tech Support",100-42295,Brandel.Daniel@mayo.edu
-"TFS build","ALM Process & Tech Support",100-42295,Brandel.Daniel@mayo.edu
-"TFS Build","Windows Engineering",100-42295,Brandel.Daniel@mayo.edu
-"TFS Build","Windows Engineering",100-42295,Brandel.Daniel@mayo.edu
-"TFS Build (Dev)","Windows Engineering",100-42295,Brandel.Daneil@mayo.edu
-"Test and release agents for Azure DevOps","Windows Engineering",100-42295,Brandel.Daniel@mayo.edu
-"Test and release agents for Azure DevOps","Windows Engineering",100-42295,Brandel.Daniel@mayo.edu
-"TFS Build - DEV","Windows Engineering",100-42295,Brandel.Daniel@mayo.edu
-"TFS Build - DEV","Windows Engineering",100-42295,Brandel.Daniel@mayo.edu
-"TFS Test Build","Windows Engineering",100-42295,"DL IT ALM GCC Support"
-"TFS Build - TEST","Windows Engineering",100-42295,DLITALMGCCSupport@mayo.edu
-,,100-42295,DLITALMGCCSupport@mayo.edu
-"TFS Build","Windows Engineering",100-42295,DLITALMGCCSupport@mayo.edu
-"TFS Build","Windows Engineering",100-42295,DLITALMGCCSupport@mayo.edu
-,,100-42295,DLITALMGCCSupport@mayo.edu
-"TFS Dev Build","Windows Engineering",100-42295,"DL IT ALM GCC Support"
+"TFS Build","ALM Process & Tech Support",100-42295,Brandel.Daniel@mayo.edu
 "Andover Continuum Production Database Server","Windows Engineering",760-49012,Briggs.Daniel@mayo.edu;Gens.Terry@mayo.edu;Latusek.Paul@mayo.edu;Odegard.Erik@mayo.edu
 "Anesthesia Paging System Production Server","Windows Engineering",760-49012,Schwandt.Randall@mayo.edu;Bodensteiner.Keith@mayo.edu
 "Arthrex application designed to provide OR management and interface with our Synergy","HTM Surgical RST",305-46254,bjerke.bradley@mayo.edu
 "Video Monitoring for Individual Assignme","Windows Engineering","400-43709, 610-44536, 502-44147, 305-45434",Schrader.Spencer@mayo.edu
 "Cochlear Link monitor application server","Windows Engineering",300-41061,Deorukhkar.Snehal@mayo.edu
 "Digital Signage for SWMN Public Affairs","General Systems Support",100-48078,Nauman.Christopher@mayo.edu
-"PROD Active Directory Federation Services 2016","Windows Engineering",100-48105,DLRSTGPSIDM
-"PROD Active Directory Federation Services 2016","Windows Engineering",100-48105,DLRSTGPSIDM
-"PROD Active Directory Federation Services 2016","Windows Engineering",100-48105,DLRSTGPSIDM
-"Dev Web Application Proxy servers for ADFS 2016","Windows Engineering",100-48105,DLRSTGPSIDM
-"TEST Active Directory Federation Services 2016","Windows Engineering",100-48105,DLRSTGPSIDM
-"TEST Active Directory Federation Services 2016","Windows Engineering",100-48105,DLRSTGPSIDM
+"PROD Active Directory Federation Services 2016","Windows Engineering",100-48105,Forscher.Geoffrey@mayo.edu
+"Dev Web Application Proxy servers for ADFS 2016","Windows Engineering",100-48105,Forscher.Geoffrey@mayo.edu
+"TEST Active Directory Federation Services 2016","Windows Engineering",100-48105,Forscher.Geoffrey@mayo.edu
 "Energy monitoring and reporting for Mayo","FA-Infrastructre Sys Eng",300-42497,Nordquist.Robert@mayo.edu
 "Facilities Data Fields Collection Test S","Windows Engineering",300-42497,Nordquist.Robert@mayo.edu
 "Test NetX application, a content asset management system","Windows Engineering",100-47565,Benson.Chris@mayo.edu;cthomason@mayo.edu;DLRSTGBSDTOnCall@mayo.edu
-"Hyperion Financial Consolidations Citrix Server - Prod","Windows Engineering",100-47452,Gawarecki.Chris@mayo.edu
 "Hyperion Financial Consolidations Citrix Server - Prod","Windows Engineering",100-47452,Gawarecki.Chris@mayo.edu
 "Website for searching mongo DB","Windows Engineering",100-48145,Lynch.Adam@mayo.edu
 "Website crawler for search indexing and mongo DB","Windows Engineering",100-48145,lynch.Adam@mayo.edu
@@ -357,27 +142,18 @@ nference,Research,300-90672-014,anderson.jeff1@mayo.edu
 "Orbus Application","Windows Engineering",100-49059,williams.edward@mayo.edu
 "Orbus Applicaion Prod Server","Windows Engineering",100-49059,williams.edward@mayo.edu
 "Orbus Citrix Server","Windows Engineering",100-49059,Wood.Nadia@mayo.edu
-"Orbus Citrix Server","Windows Engineering",100-49059,Wood.Nadia@mayo.edu
 "Orbus EA Application","Windows Engineering",100-49059,williams.edward@mayo.edu
-"Orbus Application","Windows Engineering",100-49059,williams.edward@mayo.edu
-"A series of scheduled services sending data to and from the DAHLC's MotionSoft instance","Windows Engineering","300-41817,300-43442,301-42460",Welp.Brian@mayo.edu
 "A series of scheduled services sending data to and from the DAHLC's MotionSoft instance","Windows Engineering","300-41817,300-43442,301-42460",Welp.Brian@mayo.edu
 "MML Shipping Integration Server","Windows Engineering",300-43173,Kolb.Branden@mayo.edu
 "A web based utility to build a CSV file for SailPoint","Windows Engineering",100-48132,Wolf.Gerald@mayo.edu
 "RTLS (Real-time Location System) Server","Windows Engineering",100-47489,DLITRTLS@mayo.edu
 "Splunk Enterprise DEV server","Windows Engineering",100-48156,banda.Chisomo@mayo.edu
 "SMS test server","Windows Engineering",100-48141,meemken.stephanie@mayo.edu
-"SMS test server","Windows Engineering",100-48141,meemken.stephanie@mayo.edu
 "SQL SentryOne","Windows Database Admin",100-48556,hao.yanling@mayo.edu
-"SQL SentryOne","Windows Database Admin",100-48556,hao.yanling@mayo.edu
-"SentryOne Monitoring Service","Windows Engineering",100-48556,DLDBMSSQLLevel3@mayo.edu
 "SentryOne Monitoring Service","Windows Engineering",100-48556,DLDBMSSQLLevel3@mayo.edu
 "Splunk production server","Windows Engineering",100-48156,Banda.Chisomo@mayo.edu
 "Repository for DLMP test profiles","Windows Engineering",300-43173,Tangirala.Phani@mayo.edu
 "Tivoli Enterprise Portal Server","Windows Engineering",100-48141,DLMCRISMS@exchange.mayo.edu
-"Tivoli Enterprise Portal Server","Windows Engineering",100-48141,DLMCRISMS@exchange.mayo.edu
-"Vascular Center Citrix Server","Windows Engineering",300-41247,Ehrhart.Jeffrey@mayo.edu
-"Vascular Center Citrix Server","Windows Engineering",300-41247,Ehrhart.Jeffrey@mayo.edu
 "Vascular Center Citrix Server","Windows Engineering",300-41247,Ehrhart.Jeffrey@mayo.edu
 "Collect Telecom system data, encryption & transport to cloud (Rochester)","Windows Engineering",100-47881,DLTelecomOn-Call@mayo.edu
 "Collect Telecom system data, encryption & transport to cloud (FL & AZ)","Windows Engineering",100-47881,DLTelecomOn-Call@mayo.edu

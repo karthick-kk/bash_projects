@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Windows Engineering",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Windows Engineering' and tags.PAU=='100-48145' and tags.Billing Project=='Website crawler for search indexing and mongo DB'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Windows Engineering | Billing Project: Website crawler for search indexing and mongo DB | PAU: 100-48145",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

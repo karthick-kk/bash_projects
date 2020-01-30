@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Development Shared Services I",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Development Shared Services I' and tags.PAU=='100-48499' and tags.Billing Project=='DSS Intake'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Development Shared Services I | Billing Project: DSS Intake | PAU: 100-48499",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

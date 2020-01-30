@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "IT - Internal Medicine",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='IT - Internal Medicine' and tags.PAU=='300-44989' and tags.Billing Project=='slip registration'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: IT - Internal Medicine | Billing Project: slip registration | PAU: 300-44989",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

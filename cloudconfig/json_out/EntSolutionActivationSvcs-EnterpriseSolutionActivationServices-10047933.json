@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Ent Solution Activation & Svcs",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Ent Solution Activation & Svcs' and tags.PAU=='100-47933' and tags.Billing Project=='Enterprise Solution Activation & Services'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Ent Solution Activation & Svcs | Billing Project: Enterprise Solution Activation & Services | PAU: 100-47933",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

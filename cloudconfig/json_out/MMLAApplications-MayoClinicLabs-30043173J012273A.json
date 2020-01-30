@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "MMLA Applications",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='MMLA Applications' and tags.PAU=='300-43173-J012273A' and tags.Billing Project=='Mayo Clinic Labs'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: MMLA Applications | Billing Project: Mayo Clinic Labs | PAU: 300-43173-J012273A",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

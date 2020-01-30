@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Commercial Systems",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Commercial Systems' and tags.PAU=='260-49203' and tags.Billing Project=='PBM Portal'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Commercial Systems | Billing Project: PBM Portal | PAU: 260-49203",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

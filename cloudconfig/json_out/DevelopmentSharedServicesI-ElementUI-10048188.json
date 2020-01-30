@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Development Shared Services I",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Development Shared Services I' and tags.PAU=='100-48188' and tags.Billing Project=='Element UI'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Development Shared Services I | Billing Project: Element UI | PAU: 100-48188",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

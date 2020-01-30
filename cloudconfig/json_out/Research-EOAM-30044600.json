@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Research",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Research' and tags.PAU=='300-44600' and tags.Billing Project=='EOAM'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Research | Billing Project: EOAM | PAU: 300-44600",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

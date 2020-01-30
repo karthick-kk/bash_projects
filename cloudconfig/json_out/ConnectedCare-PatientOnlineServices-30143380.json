@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Connected Care",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Connected Care' and tags.PAU=='301-43380' and tags.Billing Project=='Patient Online Services'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Connected Care | Billing Project: Patient Online Services | PAU: 301-43380",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

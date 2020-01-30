@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ERP Core Systems",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='ERP Core Systems' and tags.PAU=='100-47440' and tags.Billing Project=='Mayo HR Apps'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ERP Core Systems | Billing Project: Mayo HR Apps | PAU: 100-47440",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

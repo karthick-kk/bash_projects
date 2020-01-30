@@ -1,0 +1,22 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Enterprise Platform Services",
+    "Members": [
+      "Channer.Dwight@mayo.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Enterprise Platform Services' and tags.PAU=='100-48105' and tags.Billing Project=='Business To Consumer'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Enterprise Platform Services | Billing Project: Business To Consumer | PAU: 100-48105",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}
