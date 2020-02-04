@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Endpoint Analysis",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Endpoint Analysis' and tags.PAU=='100-48081' and tags.Billing Project=='VDI Azure VM'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Endpoint Analysis | Billing Project: VDI Azure VM | PAU: 100-48081",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

@@ -2,7 +2,7 @@
     "Name": "Customer Project - ERIS",
     "Audience": {
         "Name": "ERIS: RS-Rad Onc Research",
-        "Members": ["Jonathan.Asbury@Analysts.com"]
+        "Members": []
     },    
     "Data": "tags.Organization=='RS-Rad Onc Research' and tags.PAU=='100-48449'",
     "Schedule": "0 */5 * ? * *",

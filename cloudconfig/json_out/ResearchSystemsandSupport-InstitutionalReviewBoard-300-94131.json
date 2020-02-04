@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Research Systems and Support",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Research Systems and Support' and tags.PAU=='300-94131' and tags.Billing Project=='Institutional Review Board'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Research Systems and Support | Billing Project: Institutional Review Board | PAU: 300-94131",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

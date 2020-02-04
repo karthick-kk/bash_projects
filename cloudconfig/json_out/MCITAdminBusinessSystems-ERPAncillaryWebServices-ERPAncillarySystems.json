@@ -3,7 +3,8 @@
   "Audience": {
     "Name": "MCIT Admin Business Systems",
     "Members": [
-      "Channer.Dwight@mayo.edu"
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
     ]
   },
   "Data": "tags.Organization=='MCIT Admin Business Systems' and tags.PAU==' ERP Ancillary Systems' and tags.Billing Project=='ERPAncillary WebServices'",

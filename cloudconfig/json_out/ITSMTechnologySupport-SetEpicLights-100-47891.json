@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ITSM Technology Support",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='ITSM Technology Support' and tags.PAU=='100-47891' and tags.Billing Project=='SetEpicLights'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ITSM Technology Support | Billing Project: SetEpicLights | PAU: 100-47891",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

@@ -1,4 +1,5 @@
 #!/bin/bash
+> /tmp/test
 mkdir -p json_out
 # Sample values
 #export RESOURCE_NAME="TBD"
@@ -12,7 +13,7 @@ do
 ser=$((ser+1))
 RESOURCE_NAME="TBD"
 #RESOURCE_EMAIL=`echo $line|awk -F, '{print $4}'`
-RESOURCE_EMAIL="Channer.Dwight@mayo.edu"
+RESOURCE_EMAIL="Channer.Dwight@mayo.edu,test1@test.edu"
 RESOURCE_PROJECT=`echo $line|awk -F, '{print $1}'`
 RESOURCE_ORGANIZATION=`echo $line|awk -F, '{print $2}'`
 RESOURCE_PAU=`echo $line|awk -F, '{print $3}'`
@@ -28,19 +29,26 @@ jq '.Name=env.RESOURCE_NAME' | \
 jq '.Audience.Name=env.RESOURCE_ORGANIZATION' | \
 jq '.Data=env.tagdat' | \
 jq '.TEMP=env.tempdat' | \
-jq '.Tags=[env.RESOURCE_NAME]' | \
-jq '.Audience.Members=[env.RESOURCE_EMAIL]' \
+jq '.Tags=[env.RESOURCE_NAME]' \
 > resource-changes.$$.json
 
-f1=`echo ${RESOURCE_ORGANIZATION}|tr -dc '[:alnum:]\n\r'`
-f2=`echo ${RESOURCE_PROJECT}|tr -dc '[:alnum:]\n\r'`
-f3=`echo ${RESOURCE_PAU}|tr -dc '[:alnum:]\n\r'`
+mails=$(echo $RESOURCE_EMAIL | tr "," "\n")
+
+for addr in $mails
+do
+    jq --arg addr $addr '.Audience.Members += [$addr]' resource-changes.$$.json > tmp.$$.json
+    mv tmp.$$.json resource-changes.$$.json
+done
+
+f1=`echo ${RESOURCE_ORGANIZATION}|sed 's/\"//g'|sed 's/\ //g'|sed 's/[(&)]//g'|tr -d \'\"|tr -d '/'`
+f2=`echo ${RESOURCE_PROJECT}|sed 's/\"//g'|sed 's/\ //g'|sed 's/[(&)]//g'|tr -d \'\"|tr -d '/'`
+f3=`echo ${RESOURCE_PAU}|sed 's/\"//g'|sed 's/\ //g'|sed 's/[(&)]//g'|tr -d \'\"|tr -d '/'`
 
 fname=`echo ${f1}-${f2}-${f3}`
+echo $fname >> /tmp/test
 if [ -f resource-changes.$$.json ]
 then
 mv resource-changes.$$.json json_out/$fname.json
-#mv resource-changes.$$.json json_out/resource-changes.$ser.json
 fi
 fname=""
 fi

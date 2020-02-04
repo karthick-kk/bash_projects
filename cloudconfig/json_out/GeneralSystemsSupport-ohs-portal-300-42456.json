@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "General Systems Support",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='General Systems Support' and tags.PAU=='300-42456' and tags.Billing Project=='ohs-portal'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: General Systems Support | Billing Project: ohs-portal | PAU: 300-42456",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

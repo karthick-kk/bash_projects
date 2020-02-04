@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Advanced Analytics Services",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Advanced Analytics Services' and tags.PAU=='300-42344' and tags.Billing Project=='American Society Of Anesthesiology'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Advanced Analytics Services | Billing Project: American Society Of Anesthesiology | PAU: 300-42344",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

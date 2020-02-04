@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "ALM Process & Tech Support",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='ALM Process & Tech Support' and tags.PAU=='100-42295' and tags.Billing Project=='TFS Build'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: ALM Process & Tech Support | Billing Project: TFS Build | PAU: 100-42295",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

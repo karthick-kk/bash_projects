@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "MMLA Applications",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='MMLA Applications' and tags.PAU=='300-43173' and tags.Billing Project=='Laboratory Billing Information System'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: MMLA Applications | Billing Project: Laboratory Billing Information System | PAU: 300-43173",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

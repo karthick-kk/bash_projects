@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Knowledge Management",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Knowledge Management' and tags.PAU=='300-43490' and tags.Billing Project=='Epsyc'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Knowledge Management | Billing Project: Epsyc | PAU: 300-43490",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

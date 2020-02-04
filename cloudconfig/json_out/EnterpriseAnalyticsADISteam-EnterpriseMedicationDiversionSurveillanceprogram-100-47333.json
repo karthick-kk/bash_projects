@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Enterprise Analytics ADIS team",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Enterprise Analytics ADIS team' and tags.PAU=='100-47333' and tags.Billing Project=='Enterprise Medication Diversion Surveillance program'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Enterprise Analytics ADIS team | Billing Project: Enterprise Medication Diversion Surveillance program | PAU: 100-47333",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

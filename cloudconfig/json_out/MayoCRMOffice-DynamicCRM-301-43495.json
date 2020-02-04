@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Mayo CRM Office",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Mayo CRM Office' and tags.PAU=='301-43495' and tags.Billing Project=='Dynamic CRM'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Mayo CRM Office | Billing Project: Dynamic CRM | PAU: 301-43495",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

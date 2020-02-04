@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": "Connected Care Mobile Unit",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization=='Connected Care Mobile Unit' and tags.PAU=='301-43541' and tags.Billing Project=='Mayo Mobile App'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org: Connected Care Mobile Unit | Billing Project: Mayo Mobile App | PAU: 301-43541",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}

@@ -3,7 +3,8 @@
   "Audience": {
     "Name": " MayoExpertRecommendations",
     "Members": [
-      "Channer.Dwight@mayo.edu"
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
     ]
   },
   "Data": "tags.Organization==' MayoExpertRecommendations' and tags.PAU=='Knowledge Mgmt Technologies' and tags.Billing Project=='Mayo Expert Advisory'",

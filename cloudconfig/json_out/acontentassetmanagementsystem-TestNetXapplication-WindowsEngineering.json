@@ -3,7 +3,8 @@
   "Audience": {
     "Name": " a content asset management system",
     "Members": [
-      "Channer.Dwight@mayo.edu"
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
     ]
   },
   "Data": "tags.Organization==' a content asset management system' and tags.PAU=='Windows Engineering' and tags.Billing Project=='Test NetX application'",

@@ -3,7 +3,8 @@
   "Audience": {
     "Name": "Organization",
     "Members": [
-      "Channer.Dwight@mayo.edu"
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
     ]
   },
   "Data": "tags.Organization=='Organization' and tags.PAU=='PAU' and tags.Billing Project=='Billing Project'",

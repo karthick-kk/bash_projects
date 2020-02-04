@@ -1,0 +1,23 @@
+{
+  "Name": "TBD",
+  "Audience": {
+    "Name": " Pathology",
+    "Members": [
+      "Channer.Dwight@mayo.edu",
+      "test1@test.edu"
+    ]
+  },
+  "Data": "tags.Organization==' Pathology' and tags.PAU==' and Extramural Applications - picl tool' and tags.Billing Project=='Laboratory'",
+  "Schedule": "0 */5 * ? * *",
+  "TEMP": "Org:  Pathology | Billing Project: Laboratory | PAU:  and Extramural Applications - picl tool",
+  "Tags": [
+    "TBD"
+  ],
+  "Template": "CustomerProject",
+  "System": {
+    "Schema": "1.0.0",
+    "Status": "",
+    "LastBuilt": "",
+    "Message": ""
+  }
+}
