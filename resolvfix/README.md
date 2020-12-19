@@ -9,4 +9,4 @@ $ cd bash_projects/resolvfix
 $ sudo ./resolvfix.sh
 ```
 
-
+![resolvfix-demo](resolvfix-demo.gif)
