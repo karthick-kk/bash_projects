@@ -1,8 +1,13 @@
 #!/bin/bash
 
+## Source server user
 user=osboxes
-dpath=/csplogs/csp/logs/tomcat
+# Source Path
+spath=/csplogs/csp/logs/tomcat
+# Destination Path
+dpath=/csplogs/csp/logs/tomcat/attAAPItmp
 
+## List of servers
 hosts="osboxes 10.0.2.15"
 
 for host in $hosts
@@ -11,6 +16,6 @@ do
 	if [ $? -eq 0 ]
 	then
 	echo "Copying logs from $host ..."
-	ssh -o StrictHostKeyChecking=no $user@$host tar czf - $dpath > /csplogs/csp/logs/tomcat/attAAPItmp/"$host"_logarchive_`date +"%d-%m-%Y"`.tgz
+	ssh -o StrictHostKeyChecking=no $user@$host tar czf - $spath > $dpath/"$host"_logarchive_`date +"%d-%m-%Y"`.tgz
 	fi
 done
