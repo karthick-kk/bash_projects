@@ -1,0 +1,14 @@
+---
+- hosts: all
+  vars:
+    ansible_user: osboxes
+  tasks:
+    - name: add newrelic repo
+      yum_repository:
+        name: newrelic-infra
+        description: new relic repo
+        baseurl: https://download.newrelic.com/infrastructure_agent/linux/yum/el/7/x86_64/newrelic-infra.repo 
+      become: true
+    - name: Refresh the repo
+      shell: yum -q makecache -y --disablerepo='*' --enablerepo='newrelic-infra'
+      become: true
