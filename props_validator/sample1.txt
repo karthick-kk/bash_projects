@@ -1,0 +1,11 @@
+clientid:{ sf.clientid }
+secret :{ sf.securedtoken }
+username:test
+password:secured
+timeout[value:60 
+timeout@unit:Seconds
+http.port:80
+basepath':/grp-sun-api
+http.host:0.0.0.0
+usernames = :test
+ pwd:=2123
