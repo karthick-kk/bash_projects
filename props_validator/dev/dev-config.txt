@@ -1,7 +1,7 @@
 clientid:{ sf.clientid }
 secret :{ sf.securedtoken }
 username:test
-password:secured
+~password:secured
 timeoutvalue:60 
 timeoutunit:Seconds
 http.port:80

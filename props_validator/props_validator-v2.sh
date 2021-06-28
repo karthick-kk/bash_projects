@@ -1,19 +1,14 @@
 #!/bin/bash
 #
-if [ "$1" == "" ]; then
-	echo "FileInput NOT provided"
-	exit 1
-else
-	if [ ! -f $1 ]; then
-		echo "File $1 NOT found"
-		exit 1
-	fi
+files=`find . -type f -regextype sed -regex ".*/*/[^/]*.txt" -exec ls {} \;`
+
+if [[ "$files" == "" ]]; then
+	echo "No files detected"
 fi
 
 declare -a arr=(\
 	"/.*\s:/p"\
        	"/.*=:/p"\
-       	"/.*\s=:/p"\
        	"/\s.*:/p"\
        	"/.*\s.*:/p"\
 	"/.*['].*:/p"\
@@ -23,17 +18,23 @@ declare -a arr=(\
 	"/.*[\~].*:/p"\
        	"/.*^[\s].*:/p")
 err=false
-IFS=''
-cat $1 | while read line
+for file in $files
 do
+	IFS=''
+	i=0
+cat $file | while read line
+do
+	((i=i+1))
 	for cond in "${arr[@]}"
 	do
 	if [[ -n `echo $line|sed -rn "{$cond}"` ]]; then
 		if [[ "$err" == "false" ]]; then
-		echo "key error: $1 -> $line"
+		echo "key error: $file: Line:$i -> $line"
 		err=true
 		fi
 	fi
 	done
 	err=false
+done
+IFS=
 done
